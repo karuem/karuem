@@ -1,15 +1,14 @@
 # kimaruem-resume
-<div align="center" style="border: 2px solid #007396; border-radius: 10px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
+<h1 align="center">
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" width="35"/>  
+  <b>안녕하세요, 김아름입니다!</b>
+</h1>
 
-<h2>👋 안녕하세요, 김아름입니다!</h2>
-
-<p>
-단국대학교 소프트웨어학과 23학번 <b>백엔드 개발자 지망생</b>입니다.<br/>
-<b>Java, Python, C</b>를 중심으로 서버 개발과 데이터 처리 기술을 공부하고 있습니다.<br/>
-작은 실습과 꾸준한 기록으로 성장하는 개발자를 목표로 하고 있습니다. ✨
+<p align="center">
+  단국대학교 소프트웨어학과 23학번 <b style="color:#007396;">백엔드 개발자 지망생</b>입니다.<br/>
+  <b style="color:#3776AB;">C, Java, Python</b>을 중심으로 서버 개발과 데이터 처리 기술을 공부하고 있습니다.<br/>
+  꾸준히 배우며 성장하는 <b style="color:#00599C;">개발자</b>를 목표로 하고 있습니다. 🌱
 </p>
-
-</div>
 
 ---
 
