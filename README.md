@@ -25,6 +25,11 @@ C, Java, Python을 중심으로 서버 개발과 데이터 처리 기술을 공�
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+### 📊 Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuem&layout=pie&theme=tokyonight&hide_border=true&langs_count=5&custom_title=Language%20Usage%20Ratio" width="400"/>
+</p>
+
 ### ⚙️ Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
