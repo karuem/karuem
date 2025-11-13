@@ -25,10 +25,35 @@ C, Java, Python을 중심으로 서버 개발과 데이터 처리 기술을 공�
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 📊 Language Usage
+## 📊 Language Usage (Pie Chart)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuem&layout=pie&theme=tokyonight&hide_border=true&langs_count=5&custom_title=Language%20Usage%20Ratio" width="400"/>
+  <img src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{
+      labels:['Java','Python','C'],
+      datasets:[{
+        data:[60,30,10],
+        backgroundColor:['#007396','#3776AB','#00599C']
+      }]
+    },
+    options:{
+      plugins:{
+        title:{
+          display:true,
+          text:'Language Usage Ratio',
+          font:{size:18}
+        },
+        legend:{
+          labels:{
+            color:'white',
+            font:{size:14}
+          }
+        }
+      }
+    }
+  }" width="400" alt="Language Usage Pie Chart"/>
 </p>
+
 
 ### ⚙️ Tools
 <p align="center">
