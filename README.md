@@ -1,7 +1,8 @@
 # kimaruem-resume
 <p align="center">
-  <img src="https://github.com/karuem/kimaruem-resume/assets/your_image_id/banner.png" alt="Kim Areum Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/karuem/kimaruem-resume/main/images/banner.png" alt="Kim Areum Banner" width="100%" />
 </p>
+
 
 <h2 align="center">👋 안녕하세요, 김아름입니다!</h2>
 
