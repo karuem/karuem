@@ -27,33 +27,8 @@ C, Java, Python을 중심으로 서버 개발과 데이터 처리 기술을 공�
 
 ## 📊 Language Usage (Pie Chart)
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'pie',
-    data:{
-      labels:['Java','Python','C'],
-      datasets:[{
-        data:[60,30,10],
-        backgroundColor:['#007396','#3776AB','#00599C']
-      }]
-    },
-    options:{
-      plugins:{
-        title:{
-          display:true,
-          text:'Language Usage Ratio',
-          font:{size:18}
-        },
-        legend:{
-          labels:{
-            color:'white',
-            font:{size:14}
-          }
-        }
-      }
-    }
-  }" width="400" alt="Language Usage Pie Chart"/>
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22C%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B60%2C30%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23007396%22%2C%22%233776AB%22%2C%22%2300599C%22%5D%7D%5D%7D%7D" width="380" alt="Language Usage Pie Chart" />
 </p>
-
 
 ### ⚙️ Tools
 <p align="center">
